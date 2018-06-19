@@ -4,4 +4,4 @@
 **Design Patterns: Elements of Reusable Object-Oriented Software**
 
 ## Sections:
-  - Abstract factory [C++](https://github.com/ogycode/DesignPatterns/tree/master/src/CreationalPatterns)/[C#](https://github.com/ogycode/DesignPatterns/tree/master/src/CreationalPatterns)
+  - Abstract factory [C++](https://github.com/ogycode/DesignPatterns/blob/master/src/CreationalPatterns/AbstractFactory/AbstractFactoryCPP/AbstractFactoryCPP/AbstractFactoryCPP.cpp)/[C#](https://github.com/ogycode/DesignPatterns/blob/master/src/CreationalPatterns/AbstractFactory/AbstractFactoryCSharp/AbstractFactoryCSharp/Program.cs)
