@@ -1,6 +1,6 @@
 [![Logo](https://raw.githubusercontent.com/ogycode/DesignPatterns/master/merch/logo.jpg)](https://github.com/ogycode/DesignPatterns)
 
-# Design Patterns
+# Creational Patterns
 **Design Patterns: Elements of Reusable Object-Oriented Software**
 
 ## Sections:
