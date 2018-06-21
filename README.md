@@ -5,5 +5,5 @@
 
 ## Sections:
   - [Creational Patterns](https://github.com/ogycode/DesignPatterns/tree/master/src/CreationalPatterns)
-  - [Behavioral Patterns](https://github.com/ogycode/DesignPatterns/tree/master/BehavioralPatterns)
+  - [Behavioral Patterns](https://github.com/ogycode/DesignPatterns/tree/master/src/BehavioralPatterns)
   - [Structural Patterns](https://github.com/ogycode/DesignPatterns/tree/master/src/StructuralPatterns)

@@ -1,4 +1,4 @@
-[![Logo](https://raw.githubusercontent.com/ogycode/DesignPatterns/master/merch/logo.jpg)](https://github.com/ogycode/DesignPatterns)
+[![Logo](https://raw.githubusercontent.com/ogycode/DesignPatterns/master/merch/logoCreationalPatterns.jpg)](https://github.com/ogycode/DesignPatterns/tree/master/src/CreationalPatterns)
 
 # Creational Patterns
 **Design Patterns: Elements of Reusable Object-Oriented Software**
