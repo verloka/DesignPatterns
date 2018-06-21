@@ -1,4 +1,4 @@
-[![Logo](https://raw.githubusercontent.com/ogycode/DesignPatterns/master/merch/logoStructuralPatterns.jpg)](https://github.com/ogycode/DesignPatterns/tree/master/src/Fundamental)
+[![Logo](https://raw.githubusercontent.com/ogycode/DesignPatterns/master/merch/logoFundamental.jpg)](https://github.com/ogycode/DesignPatterns/tree/master/src/Fundamental)
 
 # Fundamental
 **Design Patterns: Elements of Reusable Object-Oriented Software**
