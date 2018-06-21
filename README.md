@@ -4,6 +4,7 @@
 **Design Patterns: Elements of Reusable Object-Oriented Software**
 
 ## Sections:
+  - [Fundamental](https://github.com/ogycode/DesignPatterns/tree/master/src/Fundamental)
   - [Creational Patterns](https://github.com/ogycode/DesignPatterns/tree/master/src/CreationalPatterns)
   - [Behavioral Patterns](https://github.com/ogycode/DesignPatterns/tree/master/src/BehavioralPatterns)
   - [Structural Patterns](https://github.com/ogycode/DesignPatterns/tree/master/src/StructuralPatterns)
