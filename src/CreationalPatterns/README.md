@@ -8,3 +8,4 @@
   - [Builder](https://github.com/ogycode/DesignPatterns/blob/master/src/CreationalPatterns/Builder) 
   - [Factory Method](https://github.com/ogycode/DesignPatterns/blob/master/src/CreationalPatterns/FactoryMethod) 
   - [Prototype](https://github.com/ogycode/DesignPatterns/blob/master/src/CreationalPatterns/Prototype) 
+  - [Singleton](https://github.com/ogycode/DesignPatterns/blob/master/src/CreationalPatterns/Singleton) 
