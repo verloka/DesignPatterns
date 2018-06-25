@@ -4,3 +4,4 @@
 **Design Patterns: Elements of Reusable Object-Oriented Software**
 
 ## Sections:
+ - [Adapter](https://github.com/ogycode/DesignPatterns/blob/master/src/StructuralPatterns/Adapter)
