@@ -5,3 +5,4 @@
 
 ## Sections:
  - [Adapter](https://github.com/ogycode/DesignPatterns/blob/master/src/StructuralPatterns/Adapter)
+ - [Bridge](https://github.com/ogycode/DesignPatterns/blob/master/src/StructuralPatterns/Bridge)
