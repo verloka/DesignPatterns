@@ -5,8 +5,8 @@
 
 ## Sections:
   - [Creational Patterns](https://github.com/ogycode/DesignPatterns/tree/master/src/CreationalPatterns)
-  - [Behavioral Patterns](https://github.com/ogycode/DesignPatterns/tree/master/src/BehavioralPatterns)
   - [Structural Patterns](https://github.com/ogycode/DesignPatterns/tree/master/src/StructuralPatterns)
+  - [Behavioral Patterns](https://github.com/ogycode/DesignPatterns/tree/master/src/BehavioralPatterns)
 
 ## How to build'n'run:
   - Microsoft Visual Studio 2017 v15.7.2 or higher
