@@ -6,3 +6,5 @@
 ## Sections:
  - [Adapter](https://github.com/ogycode/DesignPatterns/blob/master/src/StructuralPatterns/Adapter)
  - [Bridge](https://github.com/ogycode/DesignPatterns/blob/master/src/StructuralPatterns/Bridge)
+ - [Composite](https://github.com/ogycode/DesignPatterns/blob/master/src/StructuralPatterns/Composite)
+ - [Decorator](https://github.com/ogycode/DesignPatterns/blob/master/src/StructuralPatterns/Decorator)

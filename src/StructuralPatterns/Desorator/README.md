@@ -1,0 +1,4 @@
+[![Logo](https://raw.githubusercontent.com/ogycode/DesignPatterns/master/merch/bridge.PNG)](https://github.com/ogycode/DesignPatterns/tree/master/src/StructuralPatterns/Bridge)
+
+# Bridge [[C++](https://github.com/ogycode/DesignPatterns/blob/master/src/StructuralPatterns/Bridge/BridgeCPP/BridgeCPP/BridgeCPP.cpp)/[C#](https://github.com/ogycode/DesignPatterns/blob/master/src/StructuralPatterns/Bridge/BridgeCSharp/BridgeCSharp/Program.cs)]
+Мост — структурный шаблон проектирования, используемый в проектировании программного обеспечения чтобы «разделять абстракцию и реализацию так, чтобы они могли изменяться независимо». Шаблон мост использует инкапсуляцию, агрегирование и может использовать наследование для того, чтобы разделить ответственность между классами. [WIKI](https://ru.wikipedia.org/wiki/%D0%9C%D0%BE%D1%81%D1%82_(%D1%88%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD_%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F))
