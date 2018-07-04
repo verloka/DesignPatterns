@@ -1,4 +1,4 @@
 [![Logo](https://raw.githubusercontent.com/ogycode/DesignPatterns/master/merch/flyweight.PNG)](https://github.com/ogycode/DesignPatterns/tree/master/src/StructuralPatterns/Flyweight)
 
-# Flyweight [[C++]()/[C#]()]
+# Flyweight [[C++](https://github.com/ogycode/DesignPatterns/blob/master/src/StructuralPatterns/Flyweight/FlyweightCPP/FlyweightCPP/FlyweightCPP.cpp)/[C#]()]
 Приспособленец — структурный шаблон проектирования, при котором объект, представляющий себя как уникальный экземпляр в разных местах программы, по факту не является таковым. [WIKI](https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%B8%D1%81%D0%BF%D0%BE%D1%81%D0%BE%D0%B1%D0%BB%D0%B5%D0%BD%D0%B5%D1%86_(%D1%88%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD_%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F))
