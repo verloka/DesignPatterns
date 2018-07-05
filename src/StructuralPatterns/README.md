@@ -10,3 +10,4 @@
  - [Decorator](https://github.com/ogycode/DesignPatterns/blob/master/src/StructuralPatterns/Decorator)
  - [Facade](https://github.com/ogycode/DesignPatterns/blob/master/src/StructuralPatterns/Facade)
  - [Flyweight](https://github.com/ogycode/DesignPatterns/blob/master/src/StructuralPatterns/Flyweight)
+ - [Proxy](https://github.com/ogycode/DesignPatterns/blob/master/src/StructuralPatterns/Proxy)
