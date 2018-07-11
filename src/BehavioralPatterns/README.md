@@ -6,3 +6,4 @@
 ## Sections:
  - [Chain of responsibility](https://github.com/ogycode/DesignPatterns/blob/master/src/BehavioralPatterns/ChainOfResponsibility)
  - [Command](https://github.com/ogycode/DesignPatterns/blob/master/src/BehavioralPatterns/Command)
+ - [Interpreter](https://github.com/ogycode/DesignPatterns/blob/master/src/BehavioralPatterns/Interpreter)
