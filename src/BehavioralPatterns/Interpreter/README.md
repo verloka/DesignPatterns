@@ -1,4 +1,4 @@
 [![Logo](https://raw.githubusercontent.com/ogycode/DesignPatterns/master/merch/Interpreter.PNG)](https://github.com/ogycode/DesignPatterns/tree/master/src/BehavioralPatterns/Interpreter)
 
-# Interpreter [[C++]()/[C#]()]
+# Interpreter [[C++](https://github.com/ogycode/DesignPatterns/blob/master/src/BehavioralPatterns/Interpreter/InterpreterCPP/InterpreterCPP/InterpreterCPP.cpp)/[C#]()]
 Интерпретатор — поведенческий шаблон проектирования, решающий часто встречающуюся, но подверженную изменениям, задачу. Также известен как Little (Small) Language. [WIKI](https://ru.wikipedia.org/wiki/%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%BF%D1%80%D0%B5%D1%82%D0%B0%D1%82%D0%BE%D1%80_(%D1%88%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD_%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F))
