@@ -12,3 +12,4 @@
  - [Memento](https://github.com/ogycode/DesignPatterns/blob/master/src/BehavioralPatterns/Memento)
  - [Observer](https://github.com/ogycode/DesignPatterns/blob/master/src/BehavioralPatterns/Observer)
  - [State](https://github.com/ogycode/DesignPatterns/blob/master/src/BehavioralPatterns/State)
+ - [Strategy](https://github.com/ogycode/DesignPatterns/blob/master/src/BehavioralPatterns/Strategy)
