@@ -1,6 +1,6 @@
 [![Logo](https://raw.githubusercontent.com/ogycode/DesignPatterns/master/merch/state.PNG)](https://github.com/ogycode/DesignPatterns/tree/master/src/BehavioralPatterns/State)
 
-# State [[C++](https://github.com/ogycode/DesignPatterns/blob/master/src/BehavioralPatterns/State/StateCPP/StateCPP/StateCPP.cpp)/[C#]()]
+# State [[C++](https://github.com/ogycode/DesignPatterns/blob/master/src/BehavioralPatterns/State/StateCPP/StateCPP/StateCPP.cpp)/[C#](https://github.com/ogycode/DesignPatterns/blob/master/src/BehavioralPatterns/State/StateCSharp/StateCSharp/Program.cs)]
 Состояние (англ. State) — поведенческий шаблон проектирования. Используется в тех случаях, когда во время выполнения программы объект должен менять своё поведение в зависимости от своего состояния.
 Паттерн состоит из 3 блоков:
   - Widget — класс, объекты которого должны менять своё поведение в зависимости от состояния.
