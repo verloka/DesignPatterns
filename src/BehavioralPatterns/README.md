@@ -11,3 +11,4 @@
  - [Mediator](https://github.com/ogycode/DesignPatterns/blob/master/src/BehavioralPatterns/Mediator)
  - [Memento](https://github.com/ogycode/DesignPatterns/blob/master/src/BehavioralPatterns/Memento)
  - [Observer](https://github.com/ogycode/DesignPatterns/blob/master/src/BehavioralPatterns/Observer)
+ - [State](https://github.com/ogycode/DesignPatterns/blob/master/src/BehavioralPatterns/State)
