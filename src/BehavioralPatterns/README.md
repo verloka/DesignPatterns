@@ -14,3 +14,4 @@
  - [State](https://github.com/ogycode/DesignPatterns/blob/master/src/BehavioralPatterns/State)
  - [Strategy](https://github.com/ogycode/DesignPatterns/blob/master/src/BehavioralPatterns/Strategy)
  - [Template method](https://github.com/ogycode/DesignPatterns/blob/master/src/BehavioralPatterns/TemplateMethod)
+ - [Visitor](https://github.com/ogycode/DesignPatterns/blob/master/src/BehavioralPatterns/Visitor)
